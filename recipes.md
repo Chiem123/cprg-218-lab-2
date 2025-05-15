@@ -72,6 +72,7 @@ Instructions:
 ### Grilled Chicken Sandwich
 
 Ingredients:
+- Onion branch sauce
 - 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 2 tablespoons olive oil
