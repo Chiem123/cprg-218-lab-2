@@ -114,3 +114,26 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Banana Bread
+
+Ingredients:
+- 2 to 3 ripe bananas, mashed
+- 1/3 cup melted butter
+- 1 teaspoon baking soda
+- Pinch of salt
+- 3/4 cup sugar
+- 1 large egg, beaten
+- 1 teaspoon vanilla extract
+- 1 1/2 cups all-purpose flour
+
+Instructions:
+1. Preheat your oven to 350°F (175°C), and butter a 4x8-inch loaf pan.
+2. In a mixing bowl, mash the ripe bananas with a fork.
+3. Stir the melted butter into the mashed bananas.
+4. Mix in the baking soda and salt.
+5. Stir in the sugar, beaten egg, and vanilla extract.
+6. Mix in the flour.
+7. Pour the batter into the prepared loaf pan.
+8. Bake for 50 minutes to 1 hour.
+9. Let cool before serving.
